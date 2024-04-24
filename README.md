@@ -1,6 +1,6 @@
-# New Marketing Internships by Huzzle
+# 2024 Finance Summer Internships by Huzzle
 
-Use this repo to find 1,000s of marketing internships 💻
+Use this repo to find 1,000s of finance summer internships 💻
 
 ⚠️ Please note that this repo is exclusive for roles in the United States, United Kingdom, or Remote positions 🌍
 

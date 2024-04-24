@@ -1,4 +1,4 @@
-# Marketing Internships by Huzzle
+# New Marketing Internships by Huzzle
 
 Use this repo to find 1,000s of marketing internships 💻
 
